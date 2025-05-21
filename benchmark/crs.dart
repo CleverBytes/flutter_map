@@ -4,7 +4,7 @@ import 'dart:ui';
 import 'package:flutter_map/src/geo/crs.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:logger/logger.dart';
-
+furnished to do so, subject to the following conditions:
 class NoFilter extends LogFilter {
   @override
   bool shouldLog(LogEvent event) => true;
